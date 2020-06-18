@@ -2,8 +2,8 @@
 Changelog for package realsense_gazebo_plugin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2020-06-18)
+------------------
 * Merge pull request `#1 <https://github.com/LCAS/realsense_gazebo_plugin/issues/1>`_ from Melanoneiro/master
   Add Registered Depth Stream
 * fix: Remove necessity of having registered depth cam enabling backwards compatibiliy
